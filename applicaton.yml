@@ -1,7 +1,6 @@
 login:
   url:
     path: /users/login
-
 token:
   secret: tokenSecret
   expiration: 86454321
