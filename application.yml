@@ -3,4 +3,4 @@ login:
     path: /users/login
 token:
   secret: tokenSecret
-  expiration: 1010101011
+  expiration: 86400000
