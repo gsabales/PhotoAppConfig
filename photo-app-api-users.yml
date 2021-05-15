@@ -1,4 +1,4 @@
 server:
   port: 8085
 my:
-  configuration: Specific for user microservice only. Edited this again!
+  configuration: Specific for user microservice only. Dynamic testing...
