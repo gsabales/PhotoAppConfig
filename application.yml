@@ -2,5 +2,5 @@ login:
   url:
     path: /users/login
 token:
-  secret: tf12FUJbqBSfttjlxrjN
+  secret: G71V7prrFt4ubIwaIEKB
   expiration: 12345876
